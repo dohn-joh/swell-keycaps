@@ -11,6 +11,7 @@ I designed these keycaps because there weren't many low profile sculpted keycap 
     - Smooth transitions between keycaps in all directions.
 - Low profile - only 0.7mm of material between keycap bottom and top surface (home row).
 - Deep dishes - 1mm deep.
+- Choc v2 and MX compatible.
 
 Sprued and ready for MJF printing.
 
