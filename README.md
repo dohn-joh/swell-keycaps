@@ -1,4 +1,4 @@
-![cover_photo](photos/1.png)
+![cover_photo](photos/1.jpg)
 
 ***
 
