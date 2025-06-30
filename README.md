@@ -5,7 +5,7 @@
 Sculpted keycaps inspired by pseudoku's [DES profile](https://github.com/pseudoku/PseudoMakeMeKeyCapProfiles). 
 I designed these keycaps because there weren't many low profile, sculpted, keycap profiles with all of the features I wanted.
 
-Features:
+## Features:
     - No harsh edges.
         - Comfortable on both column stagger and row stagger keyboards. 
         - Comfortable for performing vertical and horizontal combos.
