@@ -11,6 +11,7 @@ Sculpted keycaps inspired by pseudoku's [DES profile](https://github.com/pseudok
 - Low profile - only 0.7mm of material between keycap bottom and top surface (home row).
 - Deep dishes - 1mm deep.
 - Choc v2 and MX compatible.
+    - MX-spaced. 1U dimensions = 18.4mm x 18.4mm
 
 Sprued and ready for MJF printing.
 
