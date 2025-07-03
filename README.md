@@ -1,3 +1,4 @@
+![cover_photo](photos/1.png)
 
 ***
 
